@@ -1,5 +1,4 @@
 # Video Game Programming Final - Space Race
-# Created by Cesar Franco
 
 This game is called Space Race where the character controls Superman as they shoot their way out a field of asteroids. You'll notice this is a different concept then what I wrote in my GDD. This was my original idea, but I was struggling with collision so I decided against it. Did some research and figured it out so I hope the change of concept is okay because I think this idea is cooler anyway
 
